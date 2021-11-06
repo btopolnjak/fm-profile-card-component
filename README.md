@@ -9,7 +9,7 @@ Challenge is to build out this profile card component and get it looking as clos
 - [x] CSS
 
 ### Solution Preview
-![](./screenshot.png)
+![](./screenshot.jpg)
 
 ### Links
 - Live Site URL: [Live Solution Preview](https://btopolnjak.github.io/fm-profile-card-component/)
